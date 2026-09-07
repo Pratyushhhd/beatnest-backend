@@ -1,0 +1,9 @@
+node_modules/
+db.json
+*.tmp
+.env
+server.log
+server.err.log
+uploads/
+scripts/migration-report.json
+tools/yt-dlp.exe
